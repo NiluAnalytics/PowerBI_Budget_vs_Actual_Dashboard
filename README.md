@@ -12,7 +12,7 @@ This Power BI dashboard provides an interactive analysis of an organization's fi
 ## 🛠️ Technologies Used
 
 * **Microsoft Power BI Desktop:** For data modeling, DAX calculations, and dashboard design.
-* **Excel/CSV:** (Mention if you used these as source files) For source data.
+* **Excel/CSV:** For primary data
 
 ## 📈 Dashboard Screenshots
 
@@ -21,7 +21,7 @@ This Power BI dashboard provides an interactive analysis of an organization's fi
 ## 📁 Project Files
 
 * `Bugdet VS Actual.pbix`: The main Power BI Desktop file.
-* `data/`: (If applicable) Folder containing source data files (e.g., `budget_data.xlsx`, `actual_data.csv`).
+* Budget Vs Actual Excel Sheet
 
 ## 💡 Insights & Learnings
 
